@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/szara/Documents/GitHub/PirateGameJam2/AlchemistRoguelite/Content/AlchemistRoguelite/Maps/PlayerHouse.umap",
+				"C:/Users/szara/Documents/GitHub/PirateGameJam2/AlchemistRoguelite/Content/AlchemistRoguelite/Blueprints/Volumes/HouseExit.uasset",
+				"C:/Users/szara/Documents/GitHub/PirateGameJam2/AlchemistRoguelite/Content/WaifuMenu.uasset",
 				"D:/Unreal Projects/UngaBungas/AlchemistRoguelite/Content/AlchemistRoguelite/Maps/Village.umap",
 				"D:/Unreal Projects/UngaBungas/AlchemistRoguelite/Content/AlchemistRoguelite/UI/WBP_WeaponSelection.uasset",
 				"D:/Unreal Projects/UngaBungas/AlchemistRoguelite/Content/AlchemistRoguelite/Blueprints/Weapons/djsadjsa.uasset",
